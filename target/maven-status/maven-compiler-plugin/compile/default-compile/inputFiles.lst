@@ -1,0 +1,5 @@
+/opt/dev/projects/ATEC/spring-mybatis-rest/src/main/java/com/hafedh/mappers/UserMapper.java
+/opt/dev/projects/ATEC/spring-mybatis-rest/src/main/java/com/hafedh/controller/UserController.java
+/opt/dev/projects/ATEC/spring-mybatis-rest/src/main/java/com/hafedh/domain/User.java
+/opt/dev/projects/ATEC/spring-mybatis-rest/src/main/java/com/hafedh/mappers/UserAnnotationMapper.java
+/opt/dev/projects/ATEC/spring-mybatis-rest/src/main/java/com/hafedh/SpringRestMyBatisDemoApplication.java

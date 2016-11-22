@@ -1,0 +1,4 @@
+com/hafedh/domain/User.class
+com/hafedh/mappers/UserAnnotationMapper.class
+com/hafedh/controller/UserController.class
+com/hafedh/mappers/UserMapper.class
